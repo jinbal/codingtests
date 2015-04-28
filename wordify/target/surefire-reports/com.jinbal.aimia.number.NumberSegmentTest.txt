@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.jinbal.aimia.number.NumberSegmentTest
+-------------------------------------------------------------------------------
+Tests run: 11, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.012 sec
